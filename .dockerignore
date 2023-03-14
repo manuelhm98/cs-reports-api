@@ -1,0 +1,7 @@
+# Archivos y directorios que no deben incluirse en la imagen de Docker
+bin/
+obj/
+.vs/
+*.log
+*.csproj.user
+appsettings.json
